@@ -147,4 +147,4 @@ Minting will be only done for specific development projects, which must be appro
 
 # Roadmap
 
-![alt text](http://testing.ethernity.live/nobank-paper-images/9.jpeg)
+![alt text](http://testing.ethernity.live/nobank-paper-images/9.png)
